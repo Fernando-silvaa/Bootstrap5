@@ -90,3 +90,7 @@ input[type="checkbox"]:focus {
     color: var(--icone-preto);
   }
 }
+
+.form-check-input {
+  cursor: pointer;
+}
