@@ -18,5 +18,5 @@
 
 <h2> 📱 Layout para tablet e mobile</h2>
 
-<img style="width: 50%" src="./assets/serenatto_mobile.jpg" alt="Página da cafeteria & bistrô Serenatto">
+<img style="width: 50%" src="./assets/serenatto-tablet.png" alt="Página da cafeteria & bistrô Serenatto">
 
